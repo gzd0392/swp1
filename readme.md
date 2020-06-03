@@ -1,2 +1,2 @@
 # GUANZHIDONG    20203027
-#  Kookmin Univ SW
+#  Kookmin Univ SW COMPUTER SCIENCE
